@@ -1,16 +1,32 @@
-## Hi there 👋
+Hello and welcome 😄
+Head over here to engage, share, ask questions and collaborate together!
 
-<!--
-**richaa2k/richaa2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases
+Microsoft SQL Server, Oracle, SQLite
+
+Frameworks, Platforms and Libraries
+FastAPI JWT NodeJS NPM React
+
+Hosting
+Microsoft Azure
+
+ML/DL
+NumPy Pandas  scikit-learn
+
+ORM
+SQL Alchemy Entity Framework
+
+Programming & Markdown, Styling Languages
+C C# C++ CSS3 HTML5 Java JavaScript Jupyter Markdown Python Shell Script TypeScript Node.js react
+
+Testing
+Pytest
+
+Version Control
+Git, GitHub
+
+Other
+Docker Jira Postman Swagger
